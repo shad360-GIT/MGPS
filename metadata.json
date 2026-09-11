@@ -1,0 +1,6 @@
+{
+  "name": "MGPS — Moscot Global Production Services",
+  "description": "Editorial single-page digital experience for Moscot Global Production Services (MGPS), delivering full-scale international line production, location intelligence, and creative logistics across 48+ countries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
